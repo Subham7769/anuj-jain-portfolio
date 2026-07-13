@@ -20,6 +20,6 @@ export const profile = {
     'Results-driven sales professional consistently exceeding targets through strong lead generation, upselling, and deal closing. Skilled in B2B/B2C sales, account management, negotiation, and CRM — focused on revenue growth and client retention through sharp market knowledge and relationship-building.',
   ctas: {
     primary: { label: "Let's Talk", href: '#contact' },
-    secondary: { label: 'Download Resume', href: '/Anuj Jain - Resume (1).pdf' },
+    secondary: { label: 'Download Resume', href: '/Anuj Jain - Resume.pdf' },
   },
 };
