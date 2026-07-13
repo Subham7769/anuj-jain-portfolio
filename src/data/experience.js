@@ -43,8 +43,8 @@ export const experience = [
   {
     id: 'sales-manager',
     role: 'Sales Manager',
-    company: 'Self-employed',
-    location: 'Noida territory',
+    company: 'J.P. Associates',
+    location: 'Noida',
     period: { start: '2008', end: '2011' },
     highlights: [
       'Managed regional sales operations — lead tracking, pipeline management, target achievement through a coordinated sales team',
