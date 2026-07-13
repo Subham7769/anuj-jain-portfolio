@@ -1,4 +1,5 @@
 import { Navbar } from './components/ui/Navbar';
+import { WhatsAppButton } from './components/ui/WhatsAppButton';
 import { Hero } from './components/sections/Hero';
 import { TrustBar } from './components/sections/TrustBar';
 import { Results } from './components/sections/Results';
@@ -29,6 +30,7 @@ export default function App() {
         <Contact />
       </main>
       <Footer />
+      <WhatsAppButton />
     </>
   );
 }

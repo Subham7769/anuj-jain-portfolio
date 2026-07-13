@@ -8,6 +8,11 @@ export const profile = {
   location: 'Prayagraj, Uttar Pradesh, India',
   email: 'mickeyjain.aj@gmail.com',
   phone: '7084633460',
+  whatsapp: {
+    // E.164 without '+' for wa.me links (91 = India country code)
+    number: '917084633460',
+    prefill: "Hi Anuj, I found your portfolio and I'd like to connect.",
+  },
   linkedin: null, // [NEEDS CLIENT INPUT]
   valueProp:
     'I turn conversations into contracts — 15+ years of B2B and institutional sales across furniture, DTH, and apparel, built on listening first and closing with confidence.',
